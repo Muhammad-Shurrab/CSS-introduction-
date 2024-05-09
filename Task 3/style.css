@@ -1,0 +1,30 @@
+h2 {
+  text-decoration: underline;
+}
+
+.p-blue {
+  color: blue;
+}
+
+a {
+  color: orange;
+}
+
+p span {
+  text-decoration: underline;
+  background-color: yellow;
+  color: black;
+}
+
+li span {
+  font-weight: bold;
+  color: red;
+}
+
+.r-anchor {
+  color: red;
+}
+
+span a-bold {
+  font-weight: bold;
+}
