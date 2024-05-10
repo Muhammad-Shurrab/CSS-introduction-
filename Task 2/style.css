@@ -1,0 +1,45 @@
+.container {
+  background: #fffff1;
+  width: 700px;
+  height: 500px;
+  margin: 0 auto;
+}
+
+.articles {
+  width: 100%;
+  position: relative;
+}
+
+.article {
+  background: #ebeaec;
+  width: 30%;
+  height: 400px;
+  padding: 10px;
+  margin: 10px;
+  position: absolute;
+  overflow: hidden;
+}
+
+.article-m {
+  left: 250px;
+}
+
+.article-r {
+  height: 200px;
+  width: 22%;
+  margin-left: 20px;
+  right: 0;
+  top: 0;
+}
+
+.aside {
+  background: #fffff1;
+  position: absolute;
+  padding: 15px 15px 25px 15px;
+  height: 40px;
+  top: 180px;
+  overflow-y: scroll;
+  border-top: 3px solid black;
+  font-weight: bold;
+  border-bottom: 2px solid black;
+}

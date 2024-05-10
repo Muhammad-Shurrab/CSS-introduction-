@@ -2,7 +2,7 @@ h2 {
   text-decoration: underline;
 }
 
-.p-blue {
+body div p {
   color: blue;
 }
 
@@ -18,11 +18,24 @@ p span {
 
 li span {
   font-weight: bold;
+  color: black;
+}
+
+ul li a {
   color: red;
 }
 
-.r-anchor {
+ul ul li {
+  color: blue;
+}
+
+ul li div a {
   color: red;
+  font-weight: bold;
+}
+
+ul li ul li ul {
+  list-style: none;
 }
 
 span a-bold {
